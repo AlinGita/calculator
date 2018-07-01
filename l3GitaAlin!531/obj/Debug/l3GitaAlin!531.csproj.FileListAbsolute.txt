@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\bin\Debug\l3GitaAlin!531.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\bin\Debug\l3GitaAlin!531.exe
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\bin\Debug\l3GitaAlin!531.pdb
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\obj\Debug\l3GitaAlin!531.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\obj\Debug\l3GitaAlin!531.exe
+c:\users\pc\documents\visual studio 2013\Projects\l3GitaAlin!531\l3GitaAlin!531\obj\Debug\l3GitaAlin!531.pdb
